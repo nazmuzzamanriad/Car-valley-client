@@ -1,4 +1,10 @@
 # Project Title- CAR VALLEY
+Main Features-
+•	Users can order the product, cancel the order, give feedbacks for reviews
+•	The admin users can add new admin
+•	Admin can delete, edit or update their products and also cancel the user’s orders confirmation.
+
+# Project overview-
 
 1. This projects has a complete route system
 2. Login page and registration page also available
