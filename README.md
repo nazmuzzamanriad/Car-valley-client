@@ -12,11 +12,11 @@
 https://car-valley-ef94c.web.app/
 
 # Git client side link
-https://github.com/programming-hero-web-course-4/niche-website-client-side-nazmuzzamanriad
+https://github.com/nazmuzzamanriad/Car-valley-client
 
 # Git server side link
 
-https://github.com/programming-hero-web-course-4/niche-website-server-side-nazmuzzamanriad
+https://github.com/nazmuzzamanriad/car-valley-server
 
 
 
